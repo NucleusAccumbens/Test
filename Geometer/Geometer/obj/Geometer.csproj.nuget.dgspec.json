@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Projects\\Geometer\\Geometer\\Geometer.csproj": {}
+    "C:\\Users\\User\\Desktop\\Projects\\Test\\Geometer\\Geometer\\Geometer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Projects\\Geometer\\Geometer\\Geometer.csproj": {
+    "C:\\Users\\User\\Desktop\\Projects\\Test\\Geometer\\Geometer\\Geometer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Projects\\Geometer\\Geometer\\Geometer.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Projects\\Test\\Geometer\\Geometer\\Geometer.csproj",
         "projectName": "Geometer",
-        "projectPath": "C:\\Users\\User\\Desktop\\Projects\\Geometer\\Geometer\\Geometer.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Projects\\Test\\Geometer\\Geometer\\Geometer.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Projects\\Geometer\\Geometer\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Projects\\Test\\Geometer\\Geometer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
