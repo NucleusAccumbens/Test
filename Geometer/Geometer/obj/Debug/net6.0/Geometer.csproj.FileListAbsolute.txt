@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Projects\Geometer\Geometer\bin\Debug\net6.0\Geometer.deps.json
+C:\Users\User\Desktop\Projects\Geometer\Geometer\bin\Debug\net6.0\Geometer.dll
+C:\Users\User\Desktop\Projects\Geometer\Geometer\bin\Debug\net6.0\Geometer.pdb
+C:\Users\User\Desktop\Projects\Geometer\Geometer\obj\Debug\net6.0\Geometer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects\Geometer\Geometer\obj\Debug\net6.0\Geometer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects\Geometer\Geometer\obj\Debug\net6.0\Geometer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\Geometer\Geometer\obj\Debug\net6.0\Geometer.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\Geometer\Geometer\obj\Debug\net6.0\Geometer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\Geometer\Geometer\obj\Debug\net6.0\Geometer.dll
+C:\Users\User\Desktop\Projects\Geometer\Geometer\obj\Debug\net6.0\refint\Geometer.dll
+C:\Users\User\Desktop\Projects\Geometer\Geometer\obj\Debug\net6.0\Geometer.pdb
+C:\Users\User\Desktop\Projects\Geometer\Geometer\obj\Debug\net6.0\ref\Geometer.dll
